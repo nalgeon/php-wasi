@@ -1,0 +1,19 @@
+{
+    "name": "@antonz/php-wasi",
+    "version": "8.2.6",
+    "description": "PHP WASI build.",
+    "author": "VMware Labs",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nalgeon/php-wasi.git"
+    },
+    "files": [
+        "dist/*"
+    ],
+    "main": "dist/index.js",
+    "devDependencies": {
+        "esbuild": "^0.19.11"
+    },
+    "scripts": {}
+}
